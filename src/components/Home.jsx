@@ -26,8 +26,8 @@ const Photo = () => {
 
   return (
     <div>
-      <div className="block border-4 p-28 bg-[url('https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/tnc_39974350_4000x2200.jpg?crop=0%2C0%2C4000%2C2200&wid=4000&hei=2200&scl=1.0')] bg-cover text-white mb-7">
-        <div className=" min-w-max rig">
+      <div className="block border-4 p-28 bg-[url('https://images.unsplash.com/photo-1509737443057-96f30a3480da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHx8&w=1000&q=80')] bg-cover text-white mb-7">
+        <div className=" min-w-max rig text-gray-600">
           <h1 className="text-3xl font-semibold mb-5">Unsplash</h1>
           <p>The internet's source for visual</p>
           <p className="mb-5">Powered by creators everywhere</p>
